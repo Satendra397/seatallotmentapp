@@ -1,0 +1,27 @@
+.my-allotment {
+    padding: 5px;
+  }
+  
+  .my-allotment table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 10px;
+  }
+  
+  .my-allotment th,
+  .my-allotment td {
+    border: none;
+    border-bottom: 1px solid #ccc;
+    padding: 8px;
+    margin-top: auto;
+  }
+  
+  .my-allotment th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .my-allotment td {
+    text-align: center;
+  }
+  

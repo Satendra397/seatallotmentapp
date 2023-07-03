@@ -1,0 +1,73 @@
+
+
+.seat-row {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 80px;
+}
+
+.seat {
+  border: 1px solid black;
+  padding: 10px;
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+.booked {
+  background-color: red; 
+}
+
+.popup {
+  position: fixed;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.popup input {
+  width: 300px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+
+/*
+.seat-row {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+  }
+  
+  .seat {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 0 10px;
+    cursor: pointer;
+  }
+  
+  .popup {
+    position: fixed;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    border: 1px solid black;
+    text-align: center;
+    
+    
+    
+  }
+  
+  */
+  /*
+.popup input {
+  width: 300px; 
+  padding: 10px;
+  margin-bottom: 10px;
+}
+*/
